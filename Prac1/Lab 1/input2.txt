@@ -1,0 +1,1 @@
+This is input2.txt. We created this for the purpose of checking whether the program is running successfully or not.

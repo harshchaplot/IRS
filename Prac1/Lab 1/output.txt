@@ -1,0 +1,11 @@
+
+Another Input
+paras	lines	words	string
+1	2	24	This is very big file. You need to enter sentences and the program will tell you to the number of words, lines and paragraphs.
+2	5	42	You can test it as you like. After all, this is my program. It will help you always.
+
+
+Another Input
+paras	lines	words	string
+1	3	19	This is input2.txt. We created this for the purpose of checking whether the program is running successfully or not.
+

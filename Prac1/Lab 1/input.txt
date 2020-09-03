@@ -1,0 +1,2 @@
+This is very big file. You need to enter sentences and the program will tell you to the number of words, lines and paragraphs.
+You can test it as you like. After all, this is my program. It will help you always.
